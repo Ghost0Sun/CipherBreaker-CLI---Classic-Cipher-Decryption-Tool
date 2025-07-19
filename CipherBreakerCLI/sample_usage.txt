@@ -1,0 +1,14 @@
+🔓 Caesar Cipher Cracker
+
+Input: Wklv lv d whvw → Output: [Shift 3] This is a test
+Input: Uifsf jt b tfdsfu dpef → Output: [Shift 1] There is a secret code
+
+🔐 Vigenère Cipher Decryptor
+
+Input: Lxfopv ef rnhr with key lemon → Output: Attack at dawn
+Input: Rijvs uyvjn with key key → Output: Hello world
+
+🧠 Substitution Cipher Breaker
+
+Input: Zpv dbo't voefstuboe uijt dpef xjuipvu ifmq → Output: You can't understand this code without help
+Input: Gsv xlwv rh z hvxivg → Output: The code is a secret
